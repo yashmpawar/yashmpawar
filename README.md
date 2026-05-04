@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Yash Pawar
 
 🎓 M.Sc. Microbiology, Institute of Science, Mumbai
+
 🔬 Computational biology researcher focused on molecular docking, MD simulations, and in silico drug discovery
+
 💻 Building tools at the intersection of microbiology and data science
 
 ---
